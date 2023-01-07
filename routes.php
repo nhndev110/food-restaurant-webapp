@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/router.php';
 
-require_once "./controllers/HomeController.php";
+require_once './controllers/HomeController.php';
 
 use App\Controllers\HomeController;
 
